@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I figured out how to create a README to your own profile, I find that pretty cool.
 
 <!--
 **TrackLab/tracklab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
