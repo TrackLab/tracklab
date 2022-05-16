@@ -4,7 +4,7 @@ I am no professional. However, I am:
 
 - 👨‍🎓 a Computer Science Student
 - 🤖 heavily interested in Machine Learning
-- 👨‍🔬 a selfmade expert for scripting, to automate all sorts of things
+- 👨‍🔬 a selfmade expert for scripting, to automate all sorts of things because I'm lazy
 - 🎞 running a YouTube channel to show off my projects **worth mentioning**
 - still figuring out how GitHub works
 
