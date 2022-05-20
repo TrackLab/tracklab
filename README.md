@@ -9,6 +9,7 @@ I am no professional. However, I am:
 - still figuring out how GitHub works
 
 Like any half modern individual on the world wide web I obviously have some social media and other links too.
+Although, after watching Black Mirror, I feel uncertain about them. 
 
 </br>
 <a href="https://youtube.tracklab.dev" target="_blank">
