@@ -8,7 +8,7 @@ I am no professional. However, I am:
 - 🎞 running a YouTube channel to show off my projects **worth mentioning**
 - still figuring out how GitHub works
 
-Like any half modern individual on the world wide web I obviously have some social media and other links too.
+Like any half modern individual on the world wide web I obviously have some social media and other links too. </br>
 Although, after watching Black Mirror, I feel uncertain about them. 
 
 </br>
